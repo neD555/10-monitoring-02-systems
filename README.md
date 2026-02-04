@@ -151,5 +151,7 @@ Push: TICK.
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим Z, например ./data:/var/lib:Z
 
 ### Ответ.
+<img width="1280" height="800" alt="скрин 7" src="https://github.com/user-attachments/assets/9a3e76af-e4c3-4181-a352-5d99de6fe9e5" />
+
 
 
